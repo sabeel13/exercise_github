@@ -1,2 +1,5 @@
 def print_message():
     print("hello")
+
+def print_message():
+    print("goodbye")
